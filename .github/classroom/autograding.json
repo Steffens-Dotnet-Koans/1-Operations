@@ -1,0 +1,112 @@
+{
+  "tests": [
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Circle(0.5d)'",
+      "name": "Test_Circle(0.5d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Circle(5.0d)'",
+      "name": "Test_Circle(5.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Circle(25.0d)'",
+      "name": "Test_Circle(25.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Circle(100.0d)'",
+      "name": "Test_Circle(100.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Square(0.5d)'",
+      "name": "Test_Square(0.5d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Square(5.0d)'",
+      "name": "Test_Square(5.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Square(25.0d)'",
+      "name": "Test_Square(25.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Square(100.0d)'",
+      "name": "Test_Square(100.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Triangle(0.5d)'",
+      "name": "Test_Triangle(0.5d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Triangle(5.0d)'",
+      "name": "Test_Triangle(5.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Triangle(25.0d)'",
+      "name": "Test_Triangle(25.0d)",
+      "timeout": 5,
+      "input": ""
+    },
+    {
+      "points": 1,
+      "comparison": "exact",
+      "output": "",
+      "setup": "dotnet test --filter 'Name=Test_Triangle(100.0d)'",
+      "name": "Test_Triangle(100.0d)",
+      "timeout": 5,
+      "input": ""
+    }
+  ]
+}
